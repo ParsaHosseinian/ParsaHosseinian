@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **JavaScript**
 
 ## 🥇 Awarded cs50 Harvard University certificate
-<img src="CS50x.png" style="width: 900px; height: 600px;">
+<img src="CS50x.png" style="width: 900px; height: 400px;">
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ParsaHoseiniyan&theme=algolia)](https://github.com/ParsaHoseiniyan/github-profile-trophy)
