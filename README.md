@@ -1,4 +1,4 @@
-<img src="banner3.gif" style="width: 100%">
+<img src="coder2.gif" style="">
 
 <strong align="center"><h1 align="center">Hi 👋, I'm Parsa Hoseiniyan</h1></strong>
 
