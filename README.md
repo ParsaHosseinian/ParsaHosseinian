@@ -1,4 +1,4 @@
-<img src="coding-boy.gif" style="display:inline-block; margin-left: 700px;">
+<img src="banner2.gif" style="width: 1000px; height: 400px">
 <strong><em><h1 align="center">Hi 👋, I'm Parsa Hoseiniyan</h1></em></strong>
 
 - 🌱 I’m currently learning **JavaScript**
