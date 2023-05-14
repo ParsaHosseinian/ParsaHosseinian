@@ -1,5 +1,6 @@
 <img src="banner2.gif" style="width: 1000px; height: 370px">
-<strong><em><h1 align="center">Hi 👋, I'm Parsa Hoseiniyan</h1></em></strong>
+<strong><h1 align="center">Hi 👋, I'm Parsa Hoseiniyan</h1></strong>
+<img align="right" src="">
 
 - 🌱 I’m currently learning **JavaScript**
 
