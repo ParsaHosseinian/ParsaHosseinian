@@ -8,7 +8,7 @@
 <img src="CS50x.png" style="width: 900px; height: 600px;">
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ParsaHoseiniyan&theme=algolia)](https://github.com/ParsaHoseiniyan/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=&theme=algolia)](https://github.com/ParsaHoseiniyan/github-profile-trophy)
 <img align="right" src="coding-boy.gif"></img>
 
 <h3 align="left">Languages and Tools:</h3>
