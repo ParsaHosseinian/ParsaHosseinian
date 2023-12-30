@@ -2,7 +2,7 @@
 
 <strong align="center"><h1 align="center">I'm Parsa Hoseiniyan</h1></strong>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
 ## 🥇 Awarded cs50 Harvard University certificate
 <img src="CS50x.png" style="width: 900px; height: 600px;">
