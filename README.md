@@ -1,6 +1,6 @@
 <img src="banner4.gif" style="">
 
-<strong align="center"><h1 align="center">I'm Parsa Hosseinan</h1></strong>
+<strong align="center"><h1 align="center">I'm Parsa Hosseinian</h1></strong>
 
 - 🌱 I’m currently learning **Python**
 
