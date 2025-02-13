@@ -9,7 +9,7 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ParsaHosseinian&theme=algolia)](https://github.com/ParsaHosseinian/github-profile-trophy)
-<img align="right" src="banner5.gif" style="height: 500px;"></img>
+<img align="right" src="banner5.gif"></img>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
