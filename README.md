@@ -1,4 +1,4 @@
-<img src="banner4.gif" style="">
+<img src="banner5.gif">
 
 <strong align="center"><h1 align="center">I'm Parsa Hosseinian</h1></strong>
 
@@ -9,7 +9,7 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ParsaHosseinian&theme=algolia)](https://github.com/ParsaHosseinian/github-profile-trophy)
-<img align="right" src="banner5.gif"></img>
+<img align="right" src="banner4.gif"></img>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
