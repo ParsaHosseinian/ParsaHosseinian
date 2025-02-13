@@ -1,6 +1,6 @@
-<img src="banner5.gif">
-
 <strong align="center"><h1 align="center">I'm Parsa Hosseinian</h1></strong>
+
+<img src="banner5.gif">
 
 - 🌱 I’m currently studying **React.Js** and **Python**
 
