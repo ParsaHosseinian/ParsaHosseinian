@@ -2,7 +2,7 @@
 
 <img src="banner5.gif">
 
-- 🌱 I’m currently studying **React.Js** and **Python**
+- 🌱 I’m currently studying **React.Js** and **Python** And I am a **computer engineering** student.
 
 ## 🥇 Awarded cs50 Harvard University certificate
 <img src="CS50x.png" style="width: 900px; height: 600px;">
