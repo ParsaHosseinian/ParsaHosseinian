@@ -1,6 +1,6 @@
 <strong align="center"><h1 align="center">I'm Parsa Hosseii</h1></strong>
 
-<img src="banner5.gif">
+<img src="banner5-ezgif.com-resize.gif">
 
 - 🌱 I’m currently studying **React.Js** and **Python** And I'm a **computer engineering** student.
 
